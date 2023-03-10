@@ -21,4 +21,4 @@ The purpose of the analysis is to build a neural network model for Alphabet Soup
 -Some steps I took to try and improve the model included changing the cutoff limit for binning for both Applicaiton_Type and Classification columns, changing the number of nerons for each layer, adding an extra hidden layer, changing the activation function, and increasing the number of epochs.
 
 # Summary
-Overall, I would not call the current model a success as it only has an accuracy rate of 60%. This model would need more work before presenting to the client for use.I think it would help to gain a better understanding of the dataset in order to better leverage the targets and variables as well as what data can be eliminated as noise. 
+Overall, I would not call the current model a success as it only has an accuracy rate of 66%. This model would need more work before presenting to the client for use.I think it would help to gain a better understanding of the dataset in order to better leverage the targets and variables as well as what data can be eliminated as noise. 
