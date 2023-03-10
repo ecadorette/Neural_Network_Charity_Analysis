@@ -16,7 +16,7 @@ The purpose of the analysis is to build a neural network model for Alphabet Soup
 ### Compiling, Training, and Evaluating the Model
 -For the most successful model, I had three hidden layers, layer one had 40 neruons, layer two had 20 neurons, and layer three had 10 neurons. There was only one activation function. I found that a higher number of neruons per layer slightly improved the accuracy.
 
--I was not able to achieve target performance, I only got to 60% accuracy. However I was able to improve the model with each attempt.
+-I was not able to achieve target performance, I only got to 66% accuracy. However I was able to improve the model with each attempt.
 
 -Some steps I took to try and improve the model included changing the cutoff limit for binning for both Applicaiton_Type and Classification columns, changing the number of nerons for each layer, adding an extra hidden layer, changing the activation function, and increasing the number of epochs.
 
